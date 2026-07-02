@@ -11,6 +11,5 @@ This GitHub is a collection of my projects, experiments, and the things I'm curr
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-pink?style=for-the-badge)](https://gouri-portfolio-eight.vercel.app/)
 
 > "Learning by building, experimenting, and staying curious."
