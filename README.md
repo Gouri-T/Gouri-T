@@ -1,4 +1,4 @@
-# Hey there, I'm Gouri 👋
+# Heyy there, I'm Gouri 👋
 
 I'm an undergraduate student at IIT Ropar, interested in robotics, artificial intelligence, computer vision, and software engineering. I enjoy building systems that combine software and hardware, and I learn by experimenting, participating in competitions, and working on hands-on projects.
 
